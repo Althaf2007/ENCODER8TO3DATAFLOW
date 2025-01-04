@@ -16,6 +16,10 @@ The 8 to 3 line Encoder is also known as Octal to Binary Encoder. In 8 to 3 line
 
 Figure 01  Block Diagram of Encoder 8 * 3
 
+**Truth Table**
+
+![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/35496b14-ae6e-4cd1-9abd-d6736b576575)
+
 The logical expression of the term A0, A1, and A2 are as follows:
 
 A0 = D1 + D3 + D5 + D7
@@ -26,7 +30,7 @@ A2 = D4 + D5 + D6 + D7
 
 Logical circuit of the above expressions is given below:
 
-![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/95acaee6-c873-4c75-89eb-ef09fb158053)
+![logc](https://github.com/user-attachments/assets/1b4537ac-0bee-4926-8c87-edbf72b52495)
 
 Figure 02  Encoder 8 * 3
 
