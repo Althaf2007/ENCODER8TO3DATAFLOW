@@ -63,15 +63,11 @@ Developed by:K.Mohamed Althaf
 
 RegisterNumber:24005994
 
-**Truth Table**
-
-![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/35496b14-ae6e-4cd1-9abd-d6736b576575)
-
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
 ![Screenshot 2024-11-18 143726](https://github.com/user-attachments/assets/310000ff-866d-4038-b0cb-926731151b0f)
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+**TIMING DIAGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
 ![encooo](https://github.com/user-attachments/assets/67a7988a-3e9c-400e-a0a7-1ba98a23ce1f)
 
